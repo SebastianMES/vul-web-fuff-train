@@ -1,0 +1,6 @@
+<!-- Backup copy of an older login form. Fake credentials in a comment. -->
+<!-- lab user: webadmin / LabAdmin!2026 -->
+<form method="post">
+  <input name="user">
+  <input name="pass" type="password">
+</form>

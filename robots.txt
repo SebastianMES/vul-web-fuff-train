@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /secret/
+Disallow: /backup/
+Disallow: /private/
+Disallow: /dev/
+Disallow: /old/
+Disallow: /uploads/
+Disallow: /includes/
+Disallow: /tmp/
+Disallow: /logs/
+Disallow: /config.php
+Disallow: /passwords.txt
+Disallow: /backup.zip

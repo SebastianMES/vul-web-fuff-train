@@ -1,0 +1,3 @@
+2026-10-01
+- Added leftover /old/ and /dev/ folders for enumeration practice.
+- Left backup.zip, config.php, and passwords.txt readable on purpose.

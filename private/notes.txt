@@ -1,0 +1,2 @@
+Internal reminder: passwords.txt should not be in the web root on a real site.
+This copy exists only so ffuf can find /private/.

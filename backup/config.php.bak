@@ -1,0 +1,7 @@
+<?php
+// Older fake config copy left in /backup/ for enumeration practice.
+define('DB_HOST', '127.0.0.1');
+define('DB_NAME', 'labcorp_training_db_old');
+define('DB_USER', 'labcorp_legacy');
+define('DB_PASS', 'OldFakePass#44');
+define('API_KEY', 'lab_old_key_0000_not_real');

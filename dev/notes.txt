@@ -1,0 +1,4 @@
+TODO for the lab environment:
+- Keep robots.txt messy so extra paths are advertised.
+- Leave backup.zip in the web root.
+- Do not put this tree on a public server.
